@@ -1,0 +1,9 @@
+C:\programacion1\Proyecto_ArchR_javi\Proyecto_ArchR_javi\bin\Debug\Proyecto_ArchR_javi.exe.config
+C:\programacion1\Proyecto_ArchR_javi\Proyecto_ArchR_javi\bin\Debug\Proyecto_ArchR_javi.exe
+C:\programacion1\Proyecto_ArchR_javi\Proyecto_ArchR_javi\bin\Debug\Proyecto_ArchR_javi.pdb
+C:\programacion1\Proyecto_ArchR_javi\Proyecto_ArchR_javi\obj\Debug\Proyecto_ArchR_javi.csprojResolveAssemblyReference.cache
+C:\programacion1\Proyecto_ArchR_javi\Proyecto_ArchR_javi\obj\Debug\Proyecto_ArchR_javi.Form1.resources
+C:\programacion1\Proyecto_ArchR_javi\Proyecto_ArchR_javi\obj\Debug\Proyecto_ArchR_javi.Properties.Resources.resources
+C:\programacion1\Proyecto_ArchR_javi\Proyecto_ArchR_javi\obj\Debug\Proyecto_ArchR_javi.csproj.GenerateResource.Cache
+C:\programacion1\Proyecto_ArchR_javi\Proyecto_ArchR_javi\obj\Debug\Proyecto_ArchR_javi.exe
+C:\programacion1\Proyecto_ArchR_javi\Proyecto_ArchR_javi\obj\Debug\Proyecto_ArchR_javi.pdb
